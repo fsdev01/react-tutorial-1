@@ -1,4 +1,4 @@
-# React Tutorial
+# Learning React
 **React Tutorial by Tania Rascia** <br/>
 **Link to App**: https://fsdev01.github.io/react-tutorial-1/   <br/>
 ## Contents: 
