@@ -1,6 +1,12 @@
 # React Tutorial
-Tania Rascia's React Tutorial
-Link to App: https://fsdev01.github.io/react-tutorial-1/
+**React Tutorial by Tania Rascia** <br/>
+**Link to App**: https://fsdev01.github.io/react-tutorial-1/   <br/>
+## Contents: 
+* Components (Classes & Functions)
+* States - setting inital values and updating values
+* Props - passing data between components
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
